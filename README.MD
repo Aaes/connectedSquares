@@ -1,3 +1,9 @@
+## Connected squares
+
+https://aaes.github.io/connectedSquares/index.html
+
+A small side-project that randomly generates connected squares in a grid.
+
 ## Usage
 
 Clone the repository and open the "sprites.html" file.
